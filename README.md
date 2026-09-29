@@ -1,0 +1,1 @@
+# HISeg-623-Historical-Image-Segmentation-and-AI-Assisted-Humanities-Education-Dataset
